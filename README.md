@@ -104,7 +104,7 @@ Please submit a review for each paper on [hotcrp](https://cmu-18-747-s25.hotcrp.
 
 | Date      | Topic | Readings | Notes | Summary | Advocate | Critic |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Jan 13 (M) Lecture 1 | [Introduction to Data center Computing]() | Introduction |- Find project partners <br/> - [Form](https://docs.google.com/forms/d/e/1FAIpQLScEWtAG0lHBZVkLQGMKLLLbgZR6dEWmIKxk2FY_rINHJdPb6Q/viewform?usp=sharing) due|
+| Jan 13 (M) Lecture 1 | [Introduction to Data center Computing](https://drive.google.com/file/d/1skf8auTpZx_JOQz8OhQMTfD3Kvn5dnIV/view?usp=sharing) | Introduction |- Find project partners <br/> - [Form](https://docs.google.com/forms/d/e/1FAIpQLScEWtAG0lHBZVkLQGMKLLLbgZR6dEWmIKxk2FY_rINHJdPb6Q/viewform?usp=sharing) due|
 | Jan 15 (W) Lecture 2 <br/> | [Introduction to Data center Computing]() | Introduction |  | Akshitha Sriraman |
 | Jan 20 (M) | **No Class** |  | |
 | Jan 22 (W) | **No Class** | - Finalize project partners <br/>  | |
