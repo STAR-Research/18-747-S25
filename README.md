@@ -106,7 +106,7 @@ Please submit a review for each paper on [hotcrp](https://cmu-18-747-s25.hotcrp.
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | Jan 13 (M) Lecture 1 | [Introduction to Data center Computing](https://drive.google.com/file/d/1skf8auTpZx_JOQz8OhQMTfD3Kvn5dnIV/view?usp=sharing) | Introduction |- Find project partners <br/> - [Form](https://docs.google.com/forms/d/e/1FAIpQLScEWtAG0lHBZVkLQGMKLLLbgZR6dEWmIKxk2FY_rINHJdPb6Q/viewform?usp=sharing) due|
 | Jan 15 (W) Lecture 2 <br/> | [Introduction to Data center Computing]() | Introduction |  | Akshitha Sriraman |
-| Jan 20 (M) | **No Class** |  | |
+| Jan 20 (M) | **MLK: No Class** |  | |
 | Jan 22 (W) | **No Class** | - Finalize project partners <br/>  | |
 | Jan 27 (M) | [An Open-Source Benchmark Suite for Microservices and Their Hardware-Software Implications for Cloud and Edge Systems](http://www.csl.cornell.edu/~delimitrou/papers/2019.asplos.microservices.pdf) | Web application paradigms | -[Supplemental reading](https://www.nginx.com/blog/introduction-to-microservices/) |  |  |  |
 | Jan 29 (W) | [Profiling a Warehouse-Scale Computer](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44271.pdf) | Microarchitecture analysis |  - Submit project proposal document describing project topic (<=1 page) </br> |  | |  |
