@@ -122,7 +122,7 @@ Please submit a review for each paper on [hotcrp](https://cmu-18-747-s25.hotcrp.
 | Mar 05 (M) | **Spring break: No Class** |  | |
 | Mar 10 (M) | [Cost-Efﬁcient Overclocking in Immersion-Cooled Datacenters](https://www.microsoft.com/en-us/research/publication/cost-ef%ef%ac%81cient-overclocking-in-immersion-cooled-datacenters/) | DC cooling | |  |  |  |
 | Mar 12 (W) | [Chasing Carbon: The Elusive Environmental Footprint of Computing](https://arxiv.org/pdf/2011.02839.pdf) | Sustainability |  |   |  |  |
-| Mar 17 (M) | [ACT: Designing Sustainable Computer Systems With An Architectural Carbon Modeling Tool](https://ugupta.com/files/Gupta_ISCA2022_ACT.pdf) | Sustainability | - Guest: [Udit Gupta](https://ugupta.com/) </br> - [Supplemental reading](https://hotcarbon.org/2023/pdf/a7-lyu.pdf) </br> |  |  |  |
+| Mar 17 (M) | [Designing Cloud Servers for Lower Carbon](https://www.microsoft.com/en-us/research/publication/designing-cloud-servers-for-lower-carbon/) | Sustainability | - Guest: [Udit Gupta](https://ugupta.com/) </br> - [Supplemental reading](https://hotcarbon.org/2023/pdf/a7-lyu.pdf) </br> |  |  |  |
 | Mar 19 (W) | - [Nines are not enough](https://research.google/pubs/nines-are-not-enough-meaningful-metrics-for-clouds/) | DC business model | | |  |  |
 | Mar 24 (M) | No paper review | Ethics |  |  | |  |
 | Mar 26 (W) | [Software-defined far memory in warehouse-scale computers](https://www.cs.purdue.edu/homes/csjgwang/CloudNativeDB/WSCMemoryASPLOS19.pdf) | ML for datacenter systems | - [Supplemental reading](https://www.microsoft.com/en-us/research/uploads/prod/2020/01/CACM20-produced.pdf) |  |  |  |
